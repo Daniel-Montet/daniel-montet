@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Daniel Montet 👋
+
+- I currently work at [Adanian Labs](https://www.adanianlabs.io/) as a Fullstack Software Developer
+- ⚡ I'm continuously learning ReactJS, NodeJs, and Typescript
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-montet), [Twitter](https://twitter.com/DanMontet)
 
 <!--
 **Daniel-Montet/daniel-montet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
