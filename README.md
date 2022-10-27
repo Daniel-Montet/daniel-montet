@@ -2,7 +2,7 @@
 
 - I currently work at [Adanian Labs](https://www.adanianlabs.io/) as a Fullstack Software Developer
 - Current project I'm working on at Adanian Labs , [Fronti](https://fronti.tv)
-- I'm continuously learning ReactJS, NodeJs, and Typescript
+- I'm continuously learning ReactJS, NodeJs, Typescript, Networking and Databases
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-montet), [Twitter](https://twitter.com/DanMontet)
 
 <!--
