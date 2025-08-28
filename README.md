@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Montet 👋
 
-- I currently work at [Old Mutual SA](https://www.oldmutual.co.ke/) as a Frontend Software Developer
+- I currently work at [Old Mutual SA](https://www.oldmutual.co.ke/) as a Backend Software Developer
 - I'm continuously learning ReactJS, NodeJs, Typescript, Networking, and Databases
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-montet), [Twitter](https://twitter.com/DanMontet)
 
